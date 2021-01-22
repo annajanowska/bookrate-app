@@ -1,0 +1,10 @@
+https://app.creately.com/diagram/TLJRFF2EhU7/
+
+BAZA DANYCH KSIĄŻEK 
+| ISBN | title | author | genre | shortInfo | r0   | r1   | r2   | r3   | r4   | r5   | r6   | r7   | r8   | r9   | r10  | rated
+
+BAZA DANYCH UŻYTKOWNIKÓW
+| UUID| nick| password| isAdmin|
+
+BAZA DANYCH KOMUNIKATÓW
+| UUIDMsg| authorNick| title| text| type |
